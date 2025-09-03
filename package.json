@@ -1,0 +1,7 @@
+{
+  "name": "root-cause-power-backend-v2",
+  "version": "1.0.0",
+  "dependencies": {
+    "groq-sdk": "^0.3.0"
+  }
+}
